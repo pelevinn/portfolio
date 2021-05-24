@@ -1,0 +1,1 @@
+body{background:tomato}body div{padding:20px;color:tomato;background:yellow}.wrapper{text-align:center;font-size:38px}.wrapper-btn{line-height:3;padding:0 30px;text-decoration:none;text-transform:uppercase;border-radius:10px;border:1px solid grey;background:tomato}.wrapper-btn:hover{background:#e5e5e5}.wrapper-active{background:url(../img/starship.jpg);background-size:cover}
