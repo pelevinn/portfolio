@@ -75,7 +75,7 @@
         padding-bottom: 50px;
     }
     section{
-        padding: 50px 0!important;
+        padding: 30px 0 50px!important;
     }
     .portfolio__cont-about p{
         margin: 0!important;
@@ -117,5 +117,8 @@
     }
     .about{
         padding: 0 0 50px!important;
+    }
+    .section__title {
+        margin-bottom: 16px!important;
     }
 }
